@@ -1,0 +1,61 @@
+.wpbean-fopo-notice.notice {
+    box-shadow: 0 0.15rem 1.75rem 0 rgb(196 205 224 / 20%);
+    background: #fff;
+    padding: 30px;
+    border-radius: .25rem;
+    border: 0;
+    border-left: 4px solid;
+}
+.rtl .wpbean-fopo-notice.notice {
+    border-left: 0;
+    border-right: 4px solid;
+}
+.wpbean-fopo-notice.notice.notice-error {
+    border-color: rgb( 239, 196, 154 );
+}
+.wpbean-fopo-notice.notice.updated {
+    border-color: #0000FF;
+}
+.wpbean-fopo-notice.notice .wpbean-fopo-notice-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.wpbean-fopo-notice.notice .wpbean-fopo-notice-message {
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.wpbean-fopo-notice.notice .button {
+    height: 32px;
+    padding: 0 10px;
+    font-weight: 600;
+    text-shadow: unset;
+    border: 1px solid #eceff5;
+    border-radius: 0.25rem;
+    color: #495057;
+    background: #f5f5f9;
+    display: inline-flex;
+    gap: 15px;
+    line-height: unset;
+    align-items: center;
+    transition: all .2s linear;
+}
+.wpbean-fopo-notice.notice .button:hover, .wpbean-fopo-notice.notice .button:focus {
+    border-color: #0000FF;
+}
+.wpbean-fopo-discount-notice p {
+    font-size: 18px;
+    line-height: 32px;
+}
+.wpbean-fopo-discount-notice .notice-dismiss {
+    text-decoration: none;
+}
+.wpbean-fopo-discount-notice .actions {
+    margin-bottom: 0;
+}
+.wpbean-fopo-notice.wpbean-fopo-discount-notice .button.button-primary {
+    background-color: #0000FF;
+    border-color: #0000FF;
+    color: #fff;
+}

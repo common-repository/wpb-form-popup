@@ -1,0 +1,847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPB Form Popup\n"
+"POT-Creation-Date: 2023-12-18 01:02+0600\n"
+"PO-Revision-Date: 2023-12-20 00:09+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: WpBean <imran@wpbean.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: includes/Elementor\n"
+"X-Poedit-SearchPath-1: includes/Block\n"
+"X-Poedit-SearchPath-2: includes/Admin\n"
+"X-Poedit-SearchPath-3: includes/Admin/AdminPages\n"
+"X-Poedit-SearchPath-4: includes/Admin/ClassicWidget\n"
+"X-Poedit-SearchPath-5: includes/Admin/CustomPostType\n"
+"X-Poedit-SearchPath-6: includes/Admin/MetaAPI\n"
+"X-Poedit-SearchPath-7: includes/functions.php\n"
+"X-Poedit-SearchPath-8: includes/ShortcodeHandler.php\n"
+"X-Poedit-SearchPath-9: wpb-form-popup.php\n"
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:69
+msgid "Form Settings"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:70
+msgid "All the form settings are here."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:77
+msgid "Button Settings"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:78
+msgid "All the button settings are here."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:85
+msgid "Button or Image Style"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:86
+msgid "Modifications to the button's or image's appearance."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:93
+msgid "Popup Settings"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:94
+msgid "This is where you set all the popup options and styles."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:115
+msgid "ShortCode Title"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:116
+msgid "You can give this shortcode a name for easy reference."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:123
+msgid "Select a Form Plugin"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:124
+msgid "Select a form plugin that you want to use with our popup."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:133
+msgid "Select a Contact Form 7 Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:134
+msgid "Select a Contact Form 7 form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:157
+msgid "Select a WPForms Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:158
+msgid "Select a WPForms form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:181
+msgid "Select a Ninja Forms Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:182
+msgid "Select a Ninja Forms form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:196
+msgid "Select a Forminator Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:197
+msgid "Select a Forminator form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:211
+msgid "Select a Formidable Forms Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:212
+msgid "Select a Formidable Forms form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:226
+msgid "Select a Form Maker Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:227
+msgid "Select a Form Maker form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:241
+msgid "Select a WeForms Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:242
+msgid "Select a WeForms form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:265
+msgid "Select a Fluent Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:266
+msgid "Select a Fluent Form's form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:278
+#: includes/Admin/AdminPages/ShortCodesPage.php:686
+#: includes/Admin/AdminPages/ShortCodesPage.php:696
+#: includes/Admin/AdminPages/ShortCodesPage.php:706
+#: includes/Admin/AdminPages/ShortCodesPage.php:716
+msgid "Yes Please!"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:279
+msgid "Conversational Type Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:280
+msgid "If checked, the form shortcode will have a conversational parameter."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:293
+msgid "Select a HappyForms Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:294
+msgid "Select a HappyForm's form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:317
+msgid "Select a WS-Form's Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:318
+msgid "Select a WS-Form's form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:332
+msgid "Select a User Registration Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:333
+msgid "Select a user registration form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:356
+msgid "Select a mc4wp Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:357
+msgid "Select a mc4wp form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:380
+msgid "Select a Everest Form's Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:381
+msgid "Select a Everest Form's form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:404
+msgid "Select a Kali Form's Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:405
+msgid "Select a Kali Form's form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:428
+msgid "Select a Bit-Form's Form"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:429
+msgid "Select a Bit-Form's form that you created."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:442
+msgid "Button Text"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:443
+msgid "You can add your own text for the popup button."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:444
+#: includes/Admin/AdminPages/ShortCodesPage.php:446
+msgid "Form Popup"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:452
+msgid "Button Size"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:453
+msgid "Select button size. Default: Medium."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:459
+msgid "Small"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:460
+msgid "Medium"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:461
+msgid "Large"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:467
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:468
+msgid "Select button alignment."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:474
+#: includes/Admin/AdminPages/ShortCodesPage.php:583
+#: includes/Admin/AdminPages/ShortCodesPage.php:607
+#: includes/Admin/AdminPages/ShortCodesPage.php:656
+#: includes/Admin/AdminPages/ShortCodesPage.php:667
+msgid "Default"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:475
+#: includes/Admin/AdminPages/ShortCodesPage.php:514
+#: includes/Admin/AdminPages/ShortCodesPage.php:555
+#: includes/Admin/AdminPages/ShortCodesPage.php:887
+msgid "Left"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:476
+msgid "Center"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:477
+#: includes/Admin/AdminPages/ShortCodesPage.php:498
+#: includes/Admin/AdminPages/ShortCodesPage.php:540
+#: includes/Admin/AdminPages/ShortCodesPage.php:871
+msgid "Right"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:483
+msgid "Button Spacing"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:484
+msgid "Button padding. Inside spacing."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:490
+#: includes/Admin/AdminPages/ShortCodesPage.php:532
+#: includes/Admin/AdminPages/ShortCodesPage.php:863
+msgid "Top"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:491
+#: includes/Admin/AdminPages/ShortCodesPage.php:507
+msgid "12"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:499
+#: includes/Admin/AdminPages/ShortCodesPage.php:515
+#: includes/Admin/AdminPages/ShortCodesPage.php:533
+#: includes/Admin/AdminPages/ShortCodesPage.php:864
+#: includes/Admin/AdminPages/ShortCodesPage.php:880
+msgid "20"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:506
+#: includes/Admin/AdminPages/ShortCodesPage.php:547
+#: includes/Admin/AdminPages/ShortCodesPage.php:879
+msgid "Bottom"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:525
+msgid "Button Margin"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:526
+msgid "Button margin. Outside spacing."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:548
+#: includes/Admin/AdminPages/ShortCodesPage.php:872
+#: includes/Admin/AdminPages/ShortCodesPage.php:888
+msgid "30"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:565
+msgid "Button Border Radius"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:566
+msgid "Set the button border radius here. Default: 6px"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:576
+msgid "Button Background"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:577
+msgid "Button background settings."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:590
+#: includes/Admin/AdminPages/ShortCodesPage.php:614
+#: includes/Admin/AdminPages/ShortCodesPage.php:673
+msgid "Hover"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:600
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:601
+msgid "Button text color settings."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:624
+msgid "Add Button Border"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:625
+msgid "Enable or disable the button border."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:631
+msgid "No"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:632
+msgid "yes"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:638
+msgid "Button Border"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:639
+msgid "Button border settings."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:645
+msgid "Width"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:652
+msgid "Type"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:657
+msgid "None"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:658
+msgid "Solid"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:659
+msgid "Double"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:660
+msgid "Dotted"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:661
+msgid "Dashed"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:662
+msgid "Groove"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:687
+msgid "Close Popup on Background Overlay Click"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:688
+msgid "If checked, the user can dismiss the popup by clicking outside it."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:697
+msgid "Close Popup on Escape Key"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:698
+msgid ""
+"If the box is checked, the user can press the Escape key to close the pop-up."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:707
+msgid "Show Popup Close Icon"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:708
+msgid "The pop-up's close icon won't be visible if the box is unchecked."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:717
+msgid "Add Basic Style for the Popup Content"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:718
+msgid ""
+"If enabled, the popup content will have some basic styling, such as "
+"typography, margin, etc. If your theme already includes this styling, you "
+"can disable it."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:726
+msgid "Popup Width"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:727
+msgid "Popup window width, Can be in px or %. The default width is 650px."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:733
+#: includes/Admin/AdminPages/ShortCodesPage.php:764
+msgid "Value"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:734
+msgid "650"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:741
+#: includes/Admin/AdminPages/ShortCodesPage.php:771
+msgid "Unit"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:747
+#: includes/Admin/AdminPages/ShortCodesPage.php:776
+msgid "Px"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:748
+#: includes/Admin/AdminPages/ShortCodesPage.php:777
+msgid "%"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:749
+#: includes/Admin/AdminPages/ShortCodesPage.php:778
+msgid "em"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:757
+msgid "Popup Height"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:758
+msgid ""
+"Popup window height, Can be in px or %. Remove the value for auto height."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:786
+msgid "Popup Overflow"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:787
+msgid "You can modify popup overflow to suit your needs."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:793
+msgid "Overflow X"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:798
+msgid "visible"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:799
+msgid "hidden"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:800
+msgid "scroll"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:801
+msgid "auto"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:806
+msgid "Overflow Y"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:811
+msgid "Visible"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:812
+msgid "Hidden"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:813
+msgid "Scroll"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:814
+msgid "Auto"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:822
+msgid "Popup Overlay Background"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:823
+msgid "Popup Overlay background color."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:830
+msgid "Popup Background"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:831
+msgid "Popup background color. Default: #ffffff"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:838
+msgid "Popup Color"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:839
+msgid "Popup text color."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:846
+msgid "Popup Border Radius"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:847
+msgid "Popup border radius. Default: 0px"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:856
+msgid "Popup Spacing"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:857
+msgid "Popup padding. Inside spacing. Default: 30px 30px 30px 30px"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:936
+msgid "Saved Successfully!"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:974
+msgid "Copy the code below, and then put it wherever you want it to show up."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:979
+msgid ""
+"This PHP code can be used by advanced users to show the "
+"popup.                                                    "
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:984
+msgid ""
+"Navigate to the widgets page and drag and drop the plugin's widget into the "
+"desired spot."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:985
+msgid "Go to the Widgets Page"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:989
+msgid ""
+"Navigate to the Elementor editor page and drag and drop the plugin's widgets "
+"into the desired spot."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:993
+msgid ""
+"Navigate to the Gutenberg editor page and drag and drop the plugin's block "
+"into the desired spot."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1011
+msgid "Form Popup #"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1025
+#: includes/Admin/AdminPages/ShortCodesPage.php:1026
+#: includes/Admin/AdminPages/ShortCodesPage.php:1224
+#: includes/Elementor/ElementorWidget.php:64
+#: includes/Elementor/ElementorWidget.php:119 wpb-form-popup.php:111
+#: wpb-form-popup.php:860
+msgid "WPB Form Popup"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1040
+msgid "WPB Popup Builder"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1041
+msgid "Popup Builder"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1062
+msgid "Back"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1067
+#: includes/Admin/AdminPages/ShortCodesPage.php:1115
+msgid "ShortCode"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1112
+msgid "Delete"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1113
+msgid "Duplicate"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1116
+msgid "Edit ShortCode"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1217
+msgid "Add New Popup (Pro) "
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1219
+msgid "Add New Popup "
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1227
+msgid "You are on the"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1227
+msgid "Pro Version"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1227
+msgid "Free Version"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1228
+msgid "Version"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1230
+msgid "Upgrade to Pro and Save 10%"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1231
+#: includes/Admin/AdminPages/ShortCodesPage.php:1303
+msgid "Go Pro"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1242
+msgid "List of Form Popups"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1243
+#, no-php-format
+msgid ""
+"Only the paid version of the plugin lets you add more than one popup. Use "
+"the code &#128293;&#128293;&#128293; 10PERCENTOFF &#128293;&#128293;"
+"&#128293; to get a 10% discount on the paid version."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1248
+msgid "Edit Popup #"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1249
+#: includes/Admin/AdminPages/ShortCodesPage.php:1277
+msgid "Save Changes"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1271
+msgid "No Popup ShortCode Found. Please Add Some."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1290 wpb-form-popup.php:200
+msgid "Documentation"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1291
+msgid ""
+"Do you still have questions about how to use this plugin? Please see our "
+"detailed documentation here."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1292
+msgid "To Documentation"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1295
+msgid "Ask a Question"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1296
+msgid ""
+"Do you have any problems with this plugin? Please do not hesitate to file a "
+"support request."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1297
+msgid "To Support"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1301
+msgid "Upgrade 10% OFF Sale"
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1302
+#, no-php-format
+msgid "Get a 10% exclusive discount on the premium version."
+msgstr ""
+
+#: includes/Admin/AdminPages/ShortCodesPage.php:1302 wpb-form-popup.php:112
+msgid "Use discount code - "
+msgstr ""
+
+#: includes/Admin/ClassicWidget/ClassicWidget.php:21
+msgid "WPB Form Popup (Classic)"
+msgstr ""
+
+#: includes/Admin/ClassicWidget/ClassicWidget.php:22
+msgid "WPB form popup classic widget."
+msgstr ""
+
+#: includes/Admin/ClassicWidget/ClassicWidget.php:69
+msgid "Title:"
+msgstr ""
+
+#: includes/Admin/ClassicWidget/ClassicWidget.php:74
+#: includes/Admin/ClassicWidget/ClassicWidget.php:76
+msgid "Select a Popup ShortCode"
+msgstr ""
+
+#: includes/Admin/ClassicWidget/ClassicWidget.php:84
+msgid "First, add a popup ShortCode. "
+msgstr ""
+
+#: includes/Admin/ClassicWidget/ClassicWidget.php:84
+msgid "Go to the popup ShortCode builder"
+msgstr ""
+
+#: includes/Admin/CustomPostType/CustomPostType.php:25
+#: includes/Admin/CustomPostType/CustomPostType.php:26
+msgid "WPB Form Popup ShortCodes"
+msgstr ""
+
+#: includes/Admin/MetaAPI/MetaAPI.php:330
+msgid "Upload"
+msgstr ""
+
+#: includes/Admin/MetaAPI/MetaAPI.php:331
+msgid "Use this image"
+msgstr ""
+
+#: includes/Admin/MetaAPI/MetaAPI.php:354
+msgid "Select an Option"
+msgstr ""
+
+#: includes/Admin/assets/js/admin.js:203 includes/Admin/assets/js/admin.js:307
+msgid "Unable to copy"
+msgstr ""
+
+#: includes/Elementor/ElementorWidget.php:127
+msgid "Select a ShortCode"
+msgstr ""
+
+#: includes/ShortcodeHandler.php:109
+msgid "Popup ShortCode id required."
+msgstr ""
+
+#: includes/functions.php:195
+msgid "No Forms Selected. Please pick a form in the popup shortcode maker."
+msgstr ""
+
+#: includes/functions.php:252
+msgid "Select a Form"
+msgstr ""
+
+#: wpb-form-popup.php:109
+#, no-php-format
+msgid "Get a 10% exclusive discount on the premium version of the"
+msgstr ""
+
+#: wpb-form-popup.php:115
+msgid "Get WPB Form Popup Pro"
+msgstr ""
+
+#: wpb-form-popup.php:167
+msgid "Popup ShortCode"
+msgstr ""
+
+#: wpb-form-popup.php:199
+msgid "Settings"
+msgstr ""
+
+#: wpb-form-popup.php:202
+msgid "Get Pro"
+msgstr ""
+
+#: wpb-form-popup.php:859
+msgid "In order to work, the "
+msgstr ""
+
+#: wpb-form-popup.php:861
+msgid " needs at least one of these form plugins to be installed."
+msgstr ""

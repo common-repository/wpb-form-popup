@@ -1,0 +1,23 @@
+{
+    "name": "wpbean/wpb-form-popup",
+    "version": "1.0.0",
+    "description": "All in one form popup solution for WordPress.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "wpbean"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "WpBean\\FormPopup\\": "includes/"
+        },
+        "files": [ 
+            "includes/functions.php"
+        ]
+    },
+    "require-dev": {
+    }
+}
